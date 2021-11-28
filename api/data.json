@@ -1,8 +1,31 @@
-
-    [
+{
+    "login": {
+        "username": "CEO",
+        "password": "81dc9bdb52d04dc20036dbd8313ed055"
+        },
+    "results":  [
     {
     "id":"1",
-    "name": "Nombre1",
+    "name": "Nombre1.pdf",
+    "extension":"pdf",
+    "size": "199.50 kb",
+    "hash": {
+        "md5": "b6d5c3aaf86e8886c717bceb3d55a216",
+        "sha256":"8c2c461e50e097aa2b76e4a9174d73352ddf67f2",
+        "sha1": "8c2c461e50e097aa2b76e4a9174d73352ddf67f2"
+    },
+    "ip": "63.45.12.34",
+    "score":"50",
+    "fileList": {
+        "one": "file 1",
+        "two": "file 2",
+        "three": "file 3"
+        },
+        "antivirusList": {
+            "Kaspersky": "clean",
+            "ESET": "clean",
+            "Norton": "malicious"
+            },
     "date": "10/02/2021",
     "actualization": "12/02/2021",
     "os":"Windows"
@@ -10,6 +33,25 @@
     {
         "id":"2",
         "name": "Nombre2",
+        "extension":"pdf",
+        "size": "199.50 kb",
+        "hash": {
+            "md5": "b6d5c3aaf86e8886c717bceb3d55a216",
+            "sha256":"8c2c461e50e097aa2b76e4a9174d73352ddf67f2",
+            "sha1": "8c2c461e50e097aa2b76e4a9174d73352ddf67f2"
+        },
+        "ip": "63.45.12.34",
+        "score":"50",
+        "fileList": {
+            "one": "file 1",
+            "two": "file 2",
+            "three": "file 3"
+            },
+            "antivirusList": {
+                "Kaspersky": "clean",
+                "ESET": "clean",
+                "Norton": "malicious"
+                },
         "date": "01/02/2020",
         "actualization": "02/02/2020",
         "os":"Unix"
@@ -17,6 +59,25 @@
     {
         "id":"3",
         "name": "Nombre3",
+        "extension":"pdf",
+        "size": "199.50 kb",
+        "hash": {
+            "md5": "b6d5c3aaf86e8886c717bceb3d55a216",
+            "sha256":"8c2c461e50e097aa2b76e4a9174d73352ddf67f2",
+            "sha1": "8c2c461e50e097aa2b76e4a9174d73352ddf67f2"
+        },
+        "ip": "63.45.12.34",
+        "score":"50",
+        "fileList": {
+            "one": "file 1",
+            "two": "file 2",
+            "three": "file 3"
+            },
+            "antivirusList": {
+                "Kaspersky": "clean",
+                "ESET": "clean",
+                "Norton": "malicious"
+                },
         "date": "02/02/2019",
         "actualization": "12/02/2019",
         "os":"Mac OS"
@@ -24,8 +85,28 @@
     {
         "id":"4",
         "name": "Nombre4",
+        "extension":"pdf",
+        "size": "199.50 kb",
+        "hash": {
+            "md5": "b6d5c3aaf86e8886c717bceb3d55a216",
+            "sha256":"8c2c461e50e097aa2b76e4a9174d73352ddf67f2",
+            "sha1": "8c2c461e50e097aa2b76e4a9174d73352ddf67f2"
+        },
+        "ip": "63.45.12.34",
+        "score":"50",
+        "fileList": {
+            "one": "file 1",
+            "two": "file 2",
+            "three": "file 3"
+            },
+            "antivirusList": {
+                "Kaspersky": "clean",
+                "ESET": "clean",
+                "Norton": "malicious"
+                },
         "date": "10/02/2018",
         "actualization": "12/02/2018",
         "os":"Solaris"
     }
     ]
+}
