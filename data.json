@@ -1,26 +1,31 @@
-[
+{"results":  [
     {
+    "id":"1",
     "Nombre del fichero": "Nombre1",
     "fecha de inserción": "10/02/2021",
     "última actualización": "12/02/2021",
     "Sistema operativo":"Windows"
     },
     {
+        "id":"2",
         "Nombre del fichero": "Nombre2",
         "fecha de inserción": "01/02/2020",
         "última actualización": "02/02/2020",
         "Sistema operativo":"Unix"
     },
     {
+        "id":"3",
         "Nombre del fichero": "Nombre3",
         "fecha de inserción": "02/02/2019",
         "última actualización": "12/02/2019",
         "Sistema operativo":"Mac OS"
     },
     {
+        "id":"4",
         "Nombre del fichero": "Nombre4",
         "fecha de inserción": "10/02/2018",
         "última actualización": "12/02/2018",
         "Sistema operativo":"Solaris"
     }
     ]
+}
