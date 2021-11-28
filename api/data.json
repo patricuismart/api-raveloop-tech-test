@@ -1,32 +1,31 @@
-{
-    "results":  [
+
+    [
     {
     "id":"1",
-    "Nombre del fichero": "Nombre1",
-    "fecha de inserción": "10/02/2021",
-    "última actualización": "12/02/2021",
-    "Sistema operativo":"Windows"
+    "name": "Nombre1",
+    "date": "10/02/2021",
+    "actualization": "12/02/2021",
+    "os":"Windows"
     },
     {
         "id":"2",
-        "Nombre del fichero": "Nombre2",
-        "fecha de inserción": "01/02/2020",
-        "última actualización": "02/02/2020",
-        "Sistema operativo":"Unix"
+        "name": "Nombre2",
+        "date": "01/02/2020",
+        "actualization": "02/02/2020",
+        "os":"Unix"
     },
     {
         "id":"3",
-        "Nombre del fichero": "Nombre3",
-        "fecha de inserción": "02/02/2019",
-        "última actualización": "12/02/2019",
-        "Sistema operativo":"Mac OS"
+        "name": "Nombre3",
+        "date": "02/02/2019",
+        "actualization": "12/02/2019",
+        "os":"Mac OS"
     },
     {
         "id":"4",
-        "Nombre del fichero": "Nombre4",
-        "fecha de inserción": "10/02/2018",
-        "última actualización": "12/02/2018",
-        "Sistema operativo":"Solaris"
+        "name": "Nombre4",
+        "date": "10/02/2018",
+        "actualization": "12/02/2018",
+        "os":"Solaris"
     }
     ]
-}
